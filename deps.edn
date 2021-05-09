@@ -1,0 +1,6 @@
+{:deps
+ {clj-http {:mvn/version "3.12.0"}
+  metosin/jsonista {:mvn/version "0.3.3"}
+  org.clojure/data.xml {:mvn/version "0.0.8"}
+  }
+ }
